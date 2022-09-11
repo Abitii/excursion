@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    text-align: center;
+    display: block;
+}
+
+.headers{
+    color: white;
+    font-size: 45px;
+    
+}
+
+a{
+    color: aqua;
+
+}
+p{
+    color: gray;
+    font-size: 24px;
+}
+
+footer{
+    color: gray;
+    text-align: right;
+    margin-right: 17%;
+    font-size: 24px;
+}
